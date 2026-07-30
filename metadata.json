@@ -1,0 +1,6 @@
+{
+  "name": "Custom Notify",
+  "description": "Schedule custom notifications and reminders at exact user-defined times with repeating rules, categories, and custom alerts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
